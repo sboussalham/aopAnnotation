@@ -1,8 +1,10 @@
 package com.soufiane.aop_annotation;
 
 import com.soufiane.aop_annotation.annotation.LogMethodName;
+import com.soufiane.aop_annotation.service.Service;
 import org.junit.Test;
 import org.junit.runner.RunWith;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.test.context.junit4.SpringRunner;
 
@@ -10,15 +12,16 @@ import org.springframework.test.context.junit4.SpringRunner;
 @SpringBootTest
 public class AopAnnotationApplicationTests {
 
+	@Autowired
+	private Service service;
+
 	@Test
 	public void contextLoads() {
-		System.out.println("contextLoads executed!");
-		testMethod();
 	}
 
-	@LogMethodName
-	public void testMethod() {
-		System.out.println("testMethod executed!");
+	@Test
+	public void loggerMethodNameTest() {
+		System.out.println("loggerMethodNameTest executed!");
+		service.testMethod();
 	}
-
 }
