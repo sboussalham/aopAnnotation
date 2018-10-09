@@ -22,6 +22,6 @@ public class AopAnnotationApplicationTests {
 	@Test
 	public void loggerMethodNameTest() {
 		System.out.println("loggerMethodNameTest executed!");
-		service.testMethod();
+		service.testMethod("Dada");
 	}
 }

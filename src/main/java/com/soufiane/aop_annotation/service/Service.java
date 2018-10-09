@@ -7,7 +7,7 @@ import org.springframework.stereotype.Component;
 public class Service {
 
     @LogMethodName
-    public void testMethod() {
+    public void testMethod(String s) {
         System.out.println("testMethod executed!");
     }
 }

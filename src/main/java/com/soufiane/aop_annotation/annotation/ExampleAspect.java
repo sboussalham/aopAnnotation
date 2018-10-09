@@ -17,8 +17,12 @@ public class ExampleAspect {
     public Object logMethodName(ProceedingJoinPoint joinPoint) throws Throwable {
         Object proceed = joinPoint.proceed();
 
-        System.out.println("Method name is : " + joinPoint.getSignature().getName());
-        logger.info("Method name is : " + joinPoint.getSignature().getName());
+        //System.out.println("Method name is : " + joinPoint.getSignature().getName());
+        logger.info("Method name is {} ", joinPoint.getSignature().getName());
+        int i = 0;
+        for (Object o : joinPoint.getArgs()) {
+            logger.info("Arg "+ o.getClass().getDeclaredFields()[i++].getName() + " with value {} ", o.toString());
+        }
         return proceed;
     }
 }
