@@ -1,0 +1,187 @@
+{
+	"_id": {
+		"$oid": "5be9499355a3931c439ef9d2"
+	},
+	"Contrats": {
+		"Contrat": {
+			"CUSTOMERNUMBER": "CVO061119",
+			"TYPECONTRAT": "PRINCIPAL",
+			"ACTEUR_IDETA": "",
+			"ACTEUR_IDENT": "00018257",
+			"INFOSPE_DATESIGNATURE": "16/08/06",
+			"INFOSPE_DATEMSCOMMERCIALE": "",
+			"INFOSPE_NUMCPTFACTURATION": "",
+			"MAILCHARGEAFFAIRE": "frederic.labrot@orange.com",
+			"CODEAGENCEFT": "EAJ",
+			"USAGETYPE": "professionnel",
+			"ETIQUETTE": "Client Migre CDSMS"
+		},
+		"Formule": {
+			"ARTICLE_SERVICE": "CVO001",
+			"PRESTATION_DUREE": ""
+		}
+	}
+}
+{
+	"_id": {
+		"$oid": "5be9499355a3931c439ef9d3"
+	},
+	"Contrats": {
+		"Contrat": {
+			"CUSTOMERNUMBER": "CVO061185",
+			"TYPECONTRAT": "PRINCIPAL",
+			"ACTEUR_IDETA": "",
+			"ACTEUR_IDENT": "00024200",
+			"INFOSPE_DATESIGNATURE": "27/06/06",
+			"INFOSPE_DATEMSCOMMERCIALE": "",
+			"INFOSPE_NUMCPTFACTURATION": "",
+			"MAILCHARGEAFFAIRE": "sylvie.ferrarotto@orange.com",
+			"CODEAGENCEFT": "xxx",
+			"USAGETYPE": "professionnel",
+			"ETIQUETTE": "Client Migre CDSMS"
+		},
+		"Formule": {
+			"ARTICLE_SERVICE": "CVO001",
+			"PRESTATION_DUREE": ""
+		}
+	}
+}
+{
+	"_id": {
+		"$oid": "5be9499355a3931c439ef9d4"
+	},
+	"Contrats": {
+		"Contrat": {
+			"CUSTOMERNUMBER": "CVO068403",
+			"TYPECONTRAT": "PRINCIPAL",
+			"ACTEUR_IDETA": "",
+			"ACTEUR_IDENT": "00019996",
+			"INFOSPE_DATESIGNATURE": "05/02/08",
+			"INFOSPE_DATEMSCOMMERCIALE": "",
+			"INFOSPE_NUMCPTFACTURATION": "",
+			"MAILCHARGEAFFAIRE": "jeanpaul.rousselet@orange.com",
+			"CODEAGENCEFT": "EAP",
+			"USAGETYPE": "professionnel",
+			"ETIQUETTE": "AT Prod 2008"
+		},
+		"Formule": {
+			"ARTICLE_SERVICE": "CVO109",
+			"PRESTATION_DUREE": "",
+			"CVODIFFUSEUR": [
+				"CVO082717"
+			]
+		}
+	}
+}
+{
+	"_id": {
+		"$oid": "5be9499355a3931c439ef9d5"
+	},
+	"Contrats": {
+		"Contrat": {
+			"CUSTOMERNUMBER": "CVO073595",
+			"TYPECONTRAT": "PRINCIPAL",
+			"ACTEUR_IDETA": "",
+			"ACTEUR_IDENT": "00293079",
+			"INFOSPE_DATESIGNATURE": "16/03/09",
+			"INFOSPE_DATEMSCOMMERCIALE": "",
+			"INFOSPE_NUMCPTFACTURATION": "",
+			"MAILCHARGEAFFAIRE": "franck.grunenberger@orange.com",
+			"CODEAGENCEFT": "EAL",
+			"USAGETYPE": "professionnel",
+			"ETIQUETTE": "AT Prod 2009"
+		},
+		"Formule": {
+			"ARTICLE_SERVICE": "CVO002",
+			"PRESTATION_DUREE": ""
+		}
+	}
+}
+{
+	"_id": {
+		"$oid": "5be9499355a3931c439ef9d6"
+	},
+	"Contrats": {
+		"Contrat": {
+			"CUSTOMERNUMBER": "CVO074592",
+			"TYPECONTRAT": "PRINCIPAL",
+			"ACTEUR_IDETA": "",
+			"ACTEUR_IDENT": "00010595",
+			"INFOSPE_DATESIGNATURE": "01/07/09",
+			"INFOSPE_DATEMSCOMMERCIALE": "",
+			"INFOSPE_NUMCPTFACTURATION": "",
+			"MAILCHARGEAFFAIRE": "valerie.merigout@orange.com",
+			"CODEAGENCEFT": "EAL",
+			"USAGETYPE": "professionnel",
+			"ETIQUETTE": "Client Migre CDSMS"
+		},
+		"Formule": {
+			"ARTICLE_SERVICE": "CVO117",
+			"PRESTATION_DUREE": ""
+		}
+	}
+}
+{
+	"_id": {
+		"$oid": "5be9499355a3931c439ef9d7"
+	},
+	"Contrats": {
+		"Contrat": {
+			"CUSTOMERNUMBER": "CVO085740",
+			"TYPECONTRAT": "PRINCIPAL",
+			"ACTEUR_IDETA": "",
+			"ACTEUR_IDENT": "00262758",
+			"INFOSPE_DATESIGNATURE": "31/08/11",
+			"INFOSPE_DATEMSCOMMERCIALE": "",
+			"INFOSPE_NUMCPTFACTURATION": "",
+			"MAILCHARGEAFFAIRE": "raymond.lebeau@orange.com",
+			"CODEAGENCEFT": "EBE",
+			"USAGETYPE": "professionnel",
+			"ETIQUETTE": "AT Prod 2011"
+		},
+		"Formule": {
+			"ARTICLE_SERVICE": "CVO109",
+			"PRESTATION_DUREE": "",
+			"CVODIFFUSEUR": [
+				"CVO090417",
+				"CVO087030",
+				"CVO086797",
+				"CVO087648",
+				"CVO087200",
+				"CVO087524",
+				"CVO085743",
+				"CVO086798",
+				"CVO092378",
+				"CVO092539",
+				"CVO090147",
+				"CVO089452",
+				"CVO088897"
+			]
+		}
+	}
+}
+{
+	"_id": {
+		"$oid": "5be9499355a3931c439ef9d8"
+	},
+	"Contrats": {
+		"Contrat": {
+			"CUSTOMERNUMBER": "CVO095742",
+			"TYPECONTRAT": "PRINCIPAL",
+			"ACTEUR_IDETA": "",
+			"ACTEUR_IDENT": "00023323",
+			"INFOSPE_DATESIGNATURE": "18/06/13",
+			"INFOSPE_DATEMSCOMMERCIALE": "",
+			"INFOSPE_NUMCPTFACTURATION": "",
+			"MAILCHARGEAFFAIRE": "sebastien.mery@orange.com",
+			"CODEAGENCEFT": "EAX",
+			"USAGETYPE": "professionnel",
+			"ETIQUETTE": "AT Prod 2013"
+		},
+		"Formule": {
+			"ARTICLE_SERVICE": "CVO003",
+			"PRESTATION_DUREE": ""
+		}
+	}
+}
+

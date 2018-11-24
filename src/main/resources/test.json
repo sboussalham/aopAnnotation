@@ -1,0 +1,12 @@
+{
+	"Contrats": {
+		"contrat": {
+			"cvo":"CVO061119",
+			"contractType":"PRINCIPAL"
+		},
+		"formule": {
+			"id":"CVO001",
+			"formulaType":""
+		}
+	}
+}

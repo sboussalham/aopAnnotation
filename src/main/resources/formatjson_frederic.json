@@ -1,0 +1,70 @@
+{ 
+  "contrats": [ 
+      {
+          "contrat": {
+			"CVO" : "valeur"
+			"IDETA" : "valeur"
+			"IDENT" : "valeur"
+			"Date création" : "valeur"
+			"Date mise en service" : "valeur"
+			"Numéro de compte FE" : "valeur"
+			"Email chargé d'affaire" : "valeur"
+			"Agence" : "valeur"
+			"Type d'usage" : "valeur"
+			"Etiquette" : "valeur"
+			"Type de contrat" : "valeur"
+			"Payeur si principal" : "valeur"
+			"CVO principal" : "valeur"
+			"Groupe de cumul" : "valeur"
+			"Type de facturation" : "valeur"
+		  }, 
+          "formule": {
+			"Identifiant Formule" : "valeur"
+			"Durée d’engagement" : "valeur"
+			"Appliquer la remise sur durée d’engagement" : "valeur"
+			"Avance annuelle de communications" : "valeur"
+			"Abonnement facturation des entités" : "valeur"
+			"Montant de l’engagement" : "valeur"
+			"Tarif SMS hors Forfait" : "valeur"
+			"Option Report" : "valeur"
+			"Tarif Option Report" : "valeur"
+			"Mise en service facturation des entités" : "valeur"
+			"International" : "valeur"
+		  },
+		  "medias": [
+			{
+				"Type de media" : "valeur"
+				"Date de mise en service" : "valeur"
+				"Tarif de l'abonnement" : "valeur"
+				"Tarif Frais de mise en service media" : "valeur"
+				"Tarif d'usage" : "valeur"
+				"Borne inférieure du palier 1" : "valeur"
+				"Tarif du palier 1" : "valeur"
+				"Borne inférieure du palier 2" : "valeur"
+				"Tarif du palier 2" : "valeur"
+				"Borne inférieure du palier 3" : "valeur"
+				"Tarif du palier 3" : "valeur"
+				"…" : "valeur"
+			},
+			{
+				...
+			}
+		  ],
+		  "options": [
+			{
+				"Identifiant Option" : "valeur"
+				"Libellé personnalisé (dans le cas d’une prestation hors catalogue)" : "valeur"
+				"Durée d’engagement" : "valeur"
+				"Tarif ponctuel / abonnement mensuel" : "valeur"
+				"Tarif frais de mise en service" : "valeur"
+				"Tarif usage" : "valeur"
+				"Quantité" : "valeur"
+				"Entité payeur" : "valeur"
+			},
+			{
+				...
+			}
+		  ]
+      }, 
+   ] 
+} 
